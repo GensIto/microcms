@@ -1,0 +1,10 @@
+hero-icons
+  https://vue-hero-icons.netlify.app/
+Prettier
+  https://zenn.dev/shimakaze_soft/articles/57642e22124968
+
+microCMS
+  pw: L82rBey6aNth
+  mail: 19981121gens@gmail.com
+  id: ta8foy6az0
+  admin: https://ta8foy6az0.microcms.io/create-api
